@@ -1,6 +1,6 @@
 <h1 align="center">Facebook Clone</h1> 
 
-<h2 align="center">MERN Stack Facebook Clone along with backendintegration</h2>
+<h2 align="center">MERN Stack Facebook Clone along with backendi ntegration</h2>
 
 <br />
 <p align="center">
